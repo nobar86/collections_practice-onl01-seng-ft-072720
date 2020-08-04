@@ -30,7 +30,8 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.find do |a|
+  array.find do |letter|
+    letter[a] 
 end
 array
 end
