@@ -25,5 +25,5 @@ end
 
 def kesha_maker(array)
   array.each do |shit|
-    
+    shit[2] = $
 end
