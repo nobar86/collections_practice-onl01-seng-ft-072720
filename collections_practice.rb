@@ -24,7 +24,12 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  array.each do |shit|
-    shit[2] = "$"
+  array.each do |symbol|
+    symbol[2] = "$"
   end
+end
+
+def find_a(array)
+  array.find do |a|
+end
 end
